@@ -1,1 +1,1 @@
-python3 -c "print('Hello World')"
+print('Hello World')
